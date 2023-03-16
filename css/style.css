@@ -24,6 +24,10 @@
   text-decoration: none;
 }
 
+body {
+  overflow-x:hidden
+}
+
 :root {
   --main-color: #FC9B00;
   --bg-color: #181818;
